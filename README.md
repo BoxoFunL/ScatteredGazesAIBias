@@ -47,3 +47,5 @@ The project prioritises intersectional perspectives and participatory approaches
 
 For professional technical operation, maintenance, and troubleshooting—including daily checklists, emergency procedures, and full component specifications—see our complete Gallery Playbook:  
 [Gallery_Playbook_ScatteredGazesAIBias.md](docs/Gallery_Playbook_ScatteredGazesAIBias.md)
+
+This guide currently covers Arduino-only integration. Raspberry Pi systems documentation will be added in future updates
