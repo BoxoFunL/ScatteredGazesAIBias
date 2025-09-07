@@ -8,6 +8,11 @@ Thumbs.db
 *.elf
 *.bin
 
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
 # Temp files
 *.log
 *~
