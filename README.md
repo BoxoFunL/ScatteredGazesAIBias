@@ -41,3 +41,9 @@ Rather than attempting to “fix” AI bias with technical interventions alone, 
 
 The project prioritises intersectional perspectives and participatory approaches. We invite collaboration to create alternative technological futures that resist hierarchical binaries and build solidarity across communities impacted by bias.
 
+------------------------------------------------------------------------
+
+## Systems Overview and Technical Documentation
+
+For professional technical operation, maintenance, and troubleshooting—including daily checklists, emergency procedures, and full component specifications—see our complete Gallery Playbook:  
+[Gallery_Playbook_ScatteredGazesAIBias.md](docs/Gallery_Playbook_ScatteredGazesAIBias.md)
