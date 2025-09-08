@@ -2,7 +2,7 @@
 
 ## Arduino-Controlled Interactive Installation - Gallery Operations Guide
 
-*Professional technical documentation for exhibition staff, maintenance teams, and emergency troubleshooting. Designed for 24/7 City Arts window display operation.*
+*Professional technical documentation for exhibition staff, maintenance teams, and emergency troubleshooting.*
 
 ***
 
