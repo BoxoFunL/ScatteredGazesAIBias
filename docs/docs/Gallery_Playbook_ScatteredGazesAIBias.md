@@ -107,12 +107,12 @@ unsigned long cycleStartTime; // 5-minute timer
 boolean emergencyMode = false; // Safety override
 ```
 
-**Main Program Loop** *(Simplified Overview)*:
-1. **Initialization** (0:00-0:15): Welcome, system check, user role assignment
+**Main Programme Loop** *(Simplified Overview)*:
+1. **Initialisation** (0:00-0:15): Welcome, system check, user role assignment
 2. **Decision Point** (0:15-1:00): 45-second choice window with countdown
 3. **Path Execution** (1:00-4:15): Automated scene progression based on selection
 4. **Conclusion** (4:15-5:00): Comparative outcomes and call to action
-5. **Reset** (5:00+): 30-second pause, return to initialization
+5. **Reset** (5:00+): 30-second pause, return to initialisation
 
 ### Servo Motor Control
 
@@ -350,23 +350,23 @@ inclusiveWhite(); // Authentic recognition (RGB: 248,248,255)
 
 ## Exhibition-Specific Settings
 
-### City Arts Window Display Configuration
+### Display Configuration
 
 **Day Mode** *(6:00 AM - 6:00 PM)*:
-- LED brightness: 80% maximum for visibility
-- Audio volume: 65% (accounting for street noise)
-- Interaction timeout: 45 seconds (busy gallery periods)
+- LED brightness: %
+- Audio volume: % 
+- Interaction timeout:  seconds (busy periods)
 - Cycle frequency: Standard 5-minute complete cycles
 
 **Evening Mode** *(6:00 PM - 10:00 PM)*:
-- LED brightness: 95% maximum for dramatic effect
-- Audio volume: 75% (quieter ambient environment)
-- Interaction timeout: 60 seconds (more contemplative audience)
+- LED brightness: % maximum for dramatic effect
+- Audio volume: % (quieter ambient environment)
+- Interaction timeout:  seconds (more contemplative audience)
 - Enhanced lighting effects for street visibility
 
 **Night Mode** *(10:00 PM - 6:00 AM)*:
-- LED brightness: 40% (gentle presence, not disruptive)
-- Audio volume: 45% (residential consideration)
+- LED brightness: % (gentle presence, not disruptive)
+- Audio volume: % (residential consideration)
 - Automated cycles only (no interaction required)
 - Gentle pulsing pattern to maintain interest
 
@@ -425,7 +425,7 @@ inclusiveWhite(); // Authentic recognition (RGB: 248,248,255)
 
 ### Primary Support
 **Artist/Developer**: 
-- Mobile: Available 9 AM - 11 PM daily during exhibition
+- Mobile: Available  daily during exhibition
 - Email: Monitored every 2 hours during gallery operation
 - Emergency: Text "SCATTERED GAZES URGENT" for priority response
 
@@ -444,11 +444,11 @@ inclusiveWhite(); // Authentic recognition (RGB: 248,248,255)
 
 This installation represents the intersection of traditional paper theatre craft and contemporary AI ethics education. The Arduino automation serves both functional and metaphorical purposes - demonstrating human agency over algorithmic systems while providing reliable, accessible public engagement.
 
-All technical choices prioritize:
+All technical choices prioritise:
 - **Reliability** for 24/7 exhibition operation
 - **Accessibility** for diverse audiences and technical skill levels
 - **Safety** for public interaction in unsupervised environments
-- **Educational Impact** supporting lasting behavioral change around AI ethics
+- **Educational Impact** supporting lasting behavioural change around AI ethics
 
 **Complete technical documentation, including 3D printing files, circuit diagrams, and source code, will be available on GitHub following exhibition completion for educational replication.**
 
