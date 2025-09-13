@@ -22,3 +22,31 @@ Power: 5V 3A switching supply, backup battery, relay-based emergency cutoff
 ## System Architecture Diagram
 
 Asset to be added
+
+## Hardware Setup
+
+to be added
+
+## Firmware Structure
+
+to be added
+
+##Automation Flowcharts
+
+to be added
+
+## Communication Protocols
+
+to be added
+
+## Safety & Compliance
+
+to be added
+
+## Upgrades & Expansion (For Future Use)
+
+to be added
+
+## References & Links
+
+to be added
