@@ -3,7 +3,7 @@
 
 This document details the technical architecture for the Scattered Gazes Arduino-controlled interactive installation. It covers all major system components, automation flow, hardware specifications, wiring, firmware design, safety protocols, and integration points needed for reliable operation and future development.
 
-System Components
+## System Components
 
 Main Controller: Arduino Uno Rev3 (or Mega for extended IO)
 
