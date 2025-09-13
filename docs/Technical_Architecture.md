@@ -19,6 +19,6 @@ Sensors: HC-SR04 proximity, DHT22 temperature/humidity, GL5537 photoresistor, KY
 
 Power: 5V 3A switching supply, backup battery, relay-based emergency cutoff
 
-System Architecture Diagram
+## System Architecture Diagram
 
 Asset to be added
