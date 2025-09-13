@@ -30,7 +30,7 @@
 - **Primary Structure**: Champagne wooden crate (50cm × 33cm × 18cm)
 - **Control System**: Arduino Uno Rev3 with custom firmware
 - **Scene Automation**: Dual SG90 servo motors for backdrop transitions
-- **User Interface**: 3.5" resistive touch LCD display
+- **User Interface**: " resistive touch LCD display
 - **Lighting**: WS2812B addressable LED strips (60 LEDs total)
 - **Audio**: DFPlayer Mini MP3 module with 8Ω 3W speaker
 - **Power**: 5V 3A switching power supply with backup battery
@@ -131,7 +131,7 @@ boolean emergencyMode = false; // Safety override
 **Motor Safety Limits**:
 - Maximum rotation: 180° per motor
 - Movement speed: 0.5 seconds per 45° increment
-- Automatic position detection via potentiometer feedback
+- Automatic position detection via potentiometer feedback? (may be cost prohibitive)
 - Emergency stop if resistance exceeds threshold
 
 ### LED Lighting Programming
@@ -194,7 +194,7 @@ inclusiveWhite(); // Authentic recognition (RGB: 248,248,255)
 
 **Arduino Onboard LED**:
 - **Solid Green**: Normal operation
-- **Blinking Blue**: System initializing
+- **Blinking Blue**: System initialising
 - **Blinking Red**: Error detected, check LCD for details
 - **Solid Red**: Emergency shutdown active
 
@@ -235,7 +235,7 @@ inclusiveWhite(); // Authentic recognition (RGB: 248,248,255)
 
 ### Quarterly *(Artist consultation required)*
 - [ ] Firmware update installation if available
-- [ ] Performance optimization based on usage data
+- [ ] Performance optimisation based on usage data
 - [ ] Community feedback integration review
 - [ ] Educational content updates
 - [ ] Long-term wear component replacement
@@ -292,7 +292,7 @@ inclusiveWhite(); // Authentic recognition (RGB: 248,248,255)
 
 **Audio/Visual**:
 - DFPlayer Mini: £8 (ModMyPi)
-- WS2812B LED Strip: £25/meter (The Pi Hut)
+- WS2812B LED Strip: £25/metre (The Pi Hut)
 - Speaker 8Ω 3W: £10 (Maplin Electronics)
 - MicroSD Card 32GB: £12 (SanDisk Class 10)
 
