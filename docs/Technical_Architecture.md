@@ -1,5 +1,5 @@
-#Technical Architecture
-##Overview
+# Technical Architecture
+## Overview
 
 This document details the technical architecture for the Scattered Gazes Arduino-controlled interactive installation. It covers all major system components, automation flow, hardware specifications, wiring, firmware design, safety protocols, and integration points needed for reliable operation and future development.
 
