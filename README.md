@@ -31,7 +31,7 @@ ScatteredGazesAIBias is an open-source automated theatre project exploring how c
 
 **Critical Framework**
 
-This work draws on feminist materialist theory, particularly the concept of “agential realism,” which reveals how material and discursive practices co-produce meanings and realities, not only in physics but also in technological systems like AI. Inspired by Fatima Mernissi's work, the project centres on how patriarchal and colonial power structures become embedded in technology, especially in algorithms that misrepresent or erase marginalised voices.
+This work draws on feminist materialist theory, particularly the concept of agential realism, which reveals how material and discursive practices co-produce meanings and realities, not only in physics but also in technological systems like AI. Inspired by Fatima Mernissi's work, the project centres on how patriarchal and colonial power structures become embedded in technology, especially in algorithms that misrepresent or erase marginalised voices.
 
 
 Rather than attempting to “fix” AI bias with technical interventions alone, ScatteredGazesAIBias uses automation and performance to ask: 
@@ -45,7 +45,7 @@ The project prioritises intersectional perspectives and participatory approaches
 
 ## Systems Overview and Technical Documentation
 
-For professional technical operation, maintenance, and troubleshooting—including daily checklists, emergency procedures, and full component specifications—see our complete Gallery Playbook:  
+For professional technical operation, maintenance, and troubleshooting—including daily checklists, emergency procedures, and full component specifications - see our complete Gallery Playbook:  
 [Gallery_Playbook_ScatteredGazesAIBias.md](docs/Gallery_Playbook_ScatteredGazesAIBias.md)
 
-This guide currently covers Arduino-only integration. Raspberry Pi systems documentation will be added in future updates
+*This guide currently covers Arduino-only integration. Raspberry Pi systems documentation will be added in future updates*
