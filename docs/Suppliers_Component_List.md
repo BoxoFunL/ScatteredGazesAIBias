@@ -5,11 +5,11 @@
 
 ### Arduino & Control Systems
 
-| Component | Supplier | Cost | Lead Time | Contact |
-|-----------|----------|------|-----------|-------------------|
-| Arduino Uno Rev3 | Arduino.cc (official) | £22 | Same day London | support@arduino.cc | 
-| Arduino Mega 2560 | Pimoroni UK | £35 | 1-2 days | hello@pimoroni.com |
-| Breadboard & Jumpers | RS Components | £15 | Next day | 01536 444105 |
+| Component | Supplier | Cost | Lead Time | Contact | Website | Last Updated |
+|-----------|----------|------|-----------|-------------------|---------|-------------|
+| Arduino Uno Rev3 | Arduino.cc (official) | £22 | Same day London | support@arduino.cc | w |
+| Arduino Mega 2560 | Pimoroni UK | £35 | 1-2 days | hello@pimoroni.com | w |
+| Breadboard & Jumpers | RS Components | £15 | Next day | 01536 444105 | w |
 
 **Backup Options:**
 - Local: Maplin Electronics, Broadmarsh Centre, Nottingham
@@ -17,16 +17,16 @@
 
 ### Motion & Automation
 
-| Component | Supplier | Cost | Lead Time | Notes |
-|-----------|----------|------|-----------|--------|
+| Component | Supplier | Cost | Lead Time | Notes | Website | Last Updated |
+|-----------|----------|------|-----------|--------|---------|-------------|
 | SG90 Servo Motor (2x) | Pimoroni UK | £8/pair | 1-2 days | Standard torque |
 | MG996R Servo (heavy duty) | The Pi Hut | £25/pair | 2-3 days | High torque upgrade |
 | Servo Horns & Gears | Pimoroni UK | £5 set | 1-2 days | Complete mounting kit |
 
 ### LED Systems
 
-| Component | Supplier | Cost | Lead Time | Contact |
-|-----------|----------|------|-----------|-------------------|
+| Component | Supplier | Cost | Lead Time | Contact | Website | Last Updated |
+|-----------|----------|------|-----------|-------------------|---------|-------------|
 | WS2812B LED Strip (1m/60 LEDs) | 4Tronix UK | £25/metre | 2-3 days | sales@4tronix.co.uk |
 | 8x8 WS2812B Matrix | ReaperWare UK | £3.99 each | 3-5 days | Available for expansion |
 | Power Supply 5V 10A | RS Components | £45 | Next day | 01536 444105 |
@@ -38,8 +38,8 @@
 
 ### Audio & Interface
 
-| Component | Supplier | Cost | Lead Time | Notes |
-|-----------|----------|------|-----------|--------|
+| Component | Supplier | Cost | Lead Time | Notes | Website | Last Updated |
+|-----------|----------|------|-----------|--------|---------|-------------|
 | DFPlayer Mini MP3 | ModMyPi | £8 | 1-2 days | Test before use |
 | 3.5" Touch LCD | Adafruit Industries | £35 | 3-5 days | Import duties may apply |
 | Speaker 8Ω 3W | Maplin Electronics | £10 | Same day local | Broadmarsh Centre |
@@ -47,8 +47,8 @@
 
 ### Sensors & Monitoring
 
-| Component | Supplier | Cost | Lead Time | Purpose |
-|-----------|----------|------|-----------|---------|
+| Component | Supplier | Cost | Lead Time | Purpose | Website | Last Updated |
+|-----------|----------|------|-----------|---------|---------|-------------|
 | HC-SR04 Ultrasonic | The Pi Hut | £8 | 2-3 days | Proximity detection |
 | DHT22 Temp/Humidity | Pimoroni UK | £12 | 1-2 days | Safety monitoring |
 | GL5537 Photoresistor | RS Components | £3 | Next day | Ambient light |
