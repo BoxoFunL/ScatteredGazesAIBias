@@ -5,90 +5,75 @@
 
 ### Arduino & Control Systems
 
-| Component | Supplier | Cost | Lead Time | Contact | Website | Last Updated |
-|-----------|----------|------|-----------|-------------------|---------|-------------|
-| Arduino Uno Rev3 | Arduino.cc (official) | £22 | Same day London | support@arduino.cc | w |
-| Arduino Mega 2560 | Pimoroni UK | £35 | 1-2 days | hello@pimoroni.com | w |
-| Breadboard & Jumpers | RS Components | £15 | Next day | 01536 444105 | w |
+| Component | Supplier | Cost | Delivery | Website | Last Updated |
+|-----------|----------|------|-----------|---------|-------------|
+| Arduino Uno Rev3 | Arduino.cc (official) | €29,30 / £25.35 | Fedex/UPS | https://store.arduino.cc/products/arduino-uno-rev3?variant=35453920903319 | 14/09/2025 |
+| Arduino Uno Rev3 | Pimoroni | £23.40 | Currently out of stock | https://shop.pimoroni.com/products/arduino-uno-rev3?variant=3092610678794 | 14/09/2025 |
+| Arduino Mega 2560 | Arduino.cc (official) | €52.80 / £45.69 | Fedex/UPS  | https://store.arduino.cc/products/arduino-mega-2560-rev3?queryID=undefined | 14/09/2025 |
+| Arduino Mega 2560 | Pimoroni UK | £35 | Currently out of stock | https://shop.pimoroni.com/products/arduino-mega-2560-rev3?variant=3092530462730 | 14/09/2025 |
+| Breadboard & Jumpers | RS Components | £ | Next day | 0 |  |
 
 **Backup Options:**
-- Local: Maplin Electronics, Broadmarsh Centre, Nottingham
-- Emergency: CPC Farnell (24/7 ordering, next-day delivery)
+- Local: 
+- Emergency: 
 
 ### Motion & Automation
 
 | Component | Supplier | Cost | Lead Time | Notes | Website | Last Updated |
 |-----------|----------|------|-----------|--------|---------|-------------|
-| SG90 Servo Motor (2x) | Pimoroni UK | £8/pair | 1-2 days | Standard torque |
-| MG996R Servo (heavy duty) | The Pi Hut | £25/pair | 2-3 days | High torque upgrade |
-| Servo Horns & Gears | Pimoroni UK | £5 set | 1-2 days | Complete mounting kit |
+| SG90 Servo Motor (2x) | Pimoroni UK | £/pair |  | Standard torque |
+| MG996R Servo (heavy duty) | The Pi Hut | £/pair |  | High torque upgrade |
+| Servo Horns & Gears | Pimoroni UK | £ set |  | Complete mounting kit |
 
 ### LED Systems
 
-| Component | Supplier | Cost | Lead Time | Contact | Website | Last Updated |
-|-----------|----------|------|-----------|-------------------|---------|-------------|
-| WS2812B LED Strip (1m/60 LEDs) | 4Tronix UK | £25/metre | 2-3 days | sales@4tronix.co.uk |
-| 8x8 WS2812B Matrix | ReaperWare UK | £3.99 each | 3-5 days | Available for expansion |
-| Power Supply 5V 10A | RS Components | £45 | Next day | 01536 444105 |
+| Component | Supplier | Cost | Lead Time | Website | Last Updated |
+|-----------|----------|------|-----------|---------|-------------|
+| WS2812B LED Strip (1m/60 LEDs) | 4Tronix UK | £/metre | |
+| 8x8 WS2812B Matrix |  | £ each |  |  |
+| Power Supply 5V 10A | RS Components | £ |  |  |
 
 **UK LED Suppliers:**
-- **4Tronix:** Standard matrices, good documentation
-- **ReaperWare:** Custom PCBs, SimHub compatible
-- **AZ-Delivery UK:** Bulk matrices, good quality cables
+- 
 
 ### Audio & Interface
 
 | Component | Supplier | Cost | Lead Time | Notes | Website | Last Updated |
 |-----------|----------|------|-----------|--------|---------|-------------|
-| DFPlayer Mini MP3 | ModMyPi | £8 | 1-2 days | Test before use |
-| 3.5" Touch LCD | Adafruit Industries | £35 | 3-5 days | Import duties may apply |
-| Speaker 8Ω 3W | Maplin Electronics | £10 | Same day local | Broadmarsh Centre |
-| MicroSD Card 32GB | Currys PC World | £12 | Same day | SanDisk Class 10 minimum |
+| DFPlayer Mini MP3 |  | £ |  | Test before use |
+| 3.5" Touch LCD | Adafruit Industries | £ |  | Import duties? |
+| Speaker 8Ω 3W | Maplin Electronics | £ |  |  |
+| MicroSD Card 32GB | Currys PC World | £ |  | SanDisk Class 10 minimum |
 
 ### Sensors & Monitoring
 
 | Component | Supplier | Cost | Lead Time | Purpose | Website | Last Updated |
 |-----------|----------|------|-----------|---------|---------|-------------|
-| HC-SR04 Ultrasonic | The Pi Hut | £8 | 2-3 days | Proximity detection |
-| DHT22 Temp/Humidity | Pimoroni UK | £12 | 1-2 days | Safety monitoring |
-| GL5537 Photoresistor | RS Components | £3 | Next day | Ambient light |
-| KY-038 Microphone | ModMyPi | £6 | 1-2 days | Audio level adaptation |
+| HC-SR04 Ultrasonic | The Pi Hut | £ |  | Proximity detection |
+| DHT22 Temp/Humidity | Pimoroni UK | £ |  | Safety monitoring |
+| GL5537 Photoresistor | RS Components | £ |  | Ambient light |
+| KY-038 Microphone |  | £ |  | Audio level adaptation |
 
 ## Primary Suppliers
 
-### Pimoroni (Sheffield, UK)
-- **Strengths:** Excellent Arduino ecosystem, fast UK shipping, good documentation
-- **Contact:** hello@pimoroni.com / 0114 243 2012
-- **Shipping:** 1-2 days standard, same-day available to London
-- **Emergency:** Phone orders accepted, priority handling available
+### Pimoroni (UK)
 
-### The Pi Hut (Redditch, UK)
-- **Strengths:** Comprehensive component range, competitive pricing
-- **Contact:** support@thepihut.com / 01527 509674
-- **Shipping:** 2-3 days standard, next-day available
-- **Emergency:** Email for urgent orders, good stock levels
+### The Pi Hut (UK)
 
-### RS Components (Corby, UK)
-- **Strengths:** Professional grade, 24/7 ordering, guaranteed delivery
-- **Contact:** 01536 444105 / rs-components.com
-- **Shipping:** Next-day standard, same-day available
-- **Emergency:** 24/7 phone ordering, critical component priority
+### RS Components (UK)
 
-### ModMyPi (Nottingham, local)
-- **Strengths:** Local supplier, audio/video speciality
-- **Contact:** sales@modmypi.com / 0115 955 4940
-- **Shipping:** Local collection available, same-day delivery
-- **Emergency:** Phone for immediate collection
+### Arduino
+
+
 
 ## Emergency Suppliers
 
 ### 24/7 Critical Components
 - **RS Components:** Power supplies, basic electronics
 - **CPC Farnell:** Arduino boards, sensors
-- **Amazon Prime:** SD cards, cables, basic components (same-day London)
+- **Amazon Prime:** SD cards, cables, basic components 
 
-### Local Emergency (Nottingham)
-- **Maplin Electronics (Broadmarsh Centre):** Basic components, speakers, cables
+### Local Emergency 
 - **Currys PC World:** SD cards, USB cables, basic electronics
 - **Argos:** Power supplies, basic accessories
 
@@ -109,15 +94,15 @@
 ## Budget Planning
 
 ### Standard Installation Cost
-- Arduino & Control: £70
-- Servos & Motion: £35
-- LED Systems: £70
-- Audio & Interface: £65
-- Sensors: £30
-- **Total Core System:** £270
+- Arduino & Control: £
+- Servos & Motion: £
+- LED Systems: £
+- Audio & Interface: £
+- Sensors: £
+- **Total Core System:** £
 
 ### Emergency Spare Kit
-- Essential spares: £100 (40% of core system)
+- Essential spares: £ (% of core system)
 - Priority components: Arduino, power supply, servo motors
 - Keep in secure, temperature-controlled storage
 
