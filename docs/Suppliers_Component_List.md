@@ -46,6 +46,7 @@
 | 3.5" Touch LCD | Adafruit Industries | £ |  | Import duties? |
 | Speaker 8Ω 3W | Maplin Electronics | £ |  |  |
 | MicroSD Card 32GB | Currys | £9.99 | SanDisk Class 10 minimum | https://www.currys.co.uk/products/sandisk-ultra-class-10-microsdhc-memory-card-32-gb-10217437.html | 14/09/2025 |
+| MicroSD Card 32GB | Currys | £9.99 | SanDisk Class 10 minimum | [https://amzn.eu/d/gla7THC](https://amzn.eu/d/2ptiDfM) | 14/09/2025 |
 
  
 
