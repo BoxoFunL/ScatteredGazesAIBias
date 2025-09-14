@@ -43,6 +43,7 @@
 | Component | Supplier | Cost | Notes | Website | Last Updated |
 |-----------|----------|------|--------|---------|-------------|
 | DFPlayer Mini MP3 | The Pi Hut | £5.70 | Test before use | https://thepihut.com/products/dfplayer-a-mini-mp3-player-for-arduino | 14/09/2025 |
+| DFPlayer Mini MP3 | Rapid Online | £5.30 | Test before use | [https://www.rapidonline.com/dfrobot-dfr0299-dfplayer-a-mini-mp3-player-for-arduino-75-0189](https://www.rapidonline.com/dfrobot-dfr0299-dfplayer-a-mini-mp3-player-for-arduino-75-0189) | 14/09/2025 |
 | 3.5" Touch LCD | Adafruit Industries | £ |  | Import duties? |
 | Speaker 8Ω 3W | Maplin Electronics | £ |  |  |
 | MicroSD Card 32GB | Currys | £9.99 | SanDisk Class 10 minimum | https://www.currys.co.uk/products/sandisk-ultra-class-10-microsdhc-memory-card-32-gb-10217437.html | 14/09/2025 |
