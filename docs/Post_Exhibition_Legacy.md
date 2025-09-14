@@ -162,8 +162,10 @@ Technical Incidents: [Number/Type]
 - Cloud preservation
 
 ## Metadata Standards
-- Detailed provenance information for all components
-- Version control documentation for all code and content
+- Detailed provenance information maintained through commit history
+- Version control documentation via GitHub tags, releases, and contributor tracking
+- Rights and licensing information in LICENSE file and README.md
+- Individual file headers only where essential for context or attribution
 
 ## Future Development Roadmap
 
