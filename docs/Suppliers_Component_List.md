@@ -8,6 +8,7 @@
 | Component | Supplier | Cost | Delivery | Website | Last Updated |
 |-----------|----------|------|-----------|---------|-------------|
 | Arduino Uno Rev3 | Arduino.cc (official) | €29,30 / £25.35 | Fedex/UPS | https://store.arduino.cc/products/arduino-uno-rev3?variant=35453920903319 | 14/09/2025 |
+| Arduino Uno Rev3 | The Pi Hut | £24.50 | Next-day | https://thepihut.com/products/arduino-uno-rev-3 | 14/09/2025 |
 | Arduino Uno Rev3 | Pimoroni | £23.40 | Currently out of stock | https://shop.pimoroni.com/products/arduino-uno-rev3?variant=3092610678794 | 14/09/2025 |
 | Arduino Mega 2560 | Arduino.cc (official) | €52.80 / £45.69 | Fedex/UPS  | https://store.arduino.cc/products/arduino-mega-2560-rev3?queryID=undefined | 14/09/2025 |
 | Arduino Mega 2560 | Pimoroni UK | £35 | Currently out of stock | https://shop.pimoroni.com/products/arduino-mega-2560-rev3?variant=3092530462730 | 14/09/2025 |
