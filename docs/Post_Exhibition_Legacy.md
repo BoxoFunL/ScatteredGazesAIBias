@@ -160,3 +160,32 @@ Technical Incidents: [Number/Type]
 - Primary repository: GitHub
 - Physical backup: Multiple USB drives stored separately
 - Cloud preservation
+
+## Metadata Standards
+- Detailed provenance information for all components
+- Version control documentation for all code and content
+
+## Future Development Roadmap
+
+## Planned Enhancements
+TBD
+
+## Contact & Support Information
+## Primary Contacts
+- **Artist/Project Lead:** Layla Hashim
+
+## Changelog & Version History
+| Version | Date | Changes | Contributor |
+|---------|------|---------|-------------|
+| 1.0 | [Exhibit End] |  | Layla Hashim |
+| | | | |
+| | | | |
+
+-------------
+
+*This living document will be updated as the project evolves and new collaborators contribute. All updates will be documented in the version history above.*
+
+
+
+
+
