@@ -40,12 +40,14 @@
 
 ### Audio & Interface
 
-| Component | Supplier | Cost | Lead Time | Notes | Website | Last Updated |
-|-----------|----------|------|-----------|--------|---------|-------------|
+| Component | Supplier | Cost | Notes | Website | Last Updated |
+|-----------|----------|------|--------|---------|-------------|
 | DFPlayer Mini MP3 |  | £ |  | Test before use |
 | 3.5" Touch LCD | Adafruit Industries | £ |  | Import duties? |
 | Speaker 8Ω 3W | Maplin Electronics | £ |  |  |
-| MicroSD Card 32GB | Currys PC World | £ |  | SanDisk Class 10 minimum |
+| MicroSD Card 32GB | Currys | £9.99 | SanDisk Class 10 minimum | https://www.currys.co.uk/products/sandisk-ultra-class-10-microsdhc-memory-card-32-gb-10217437.html | 14/09/2025 |
+
+ 
 
 ### Sensors & Monitoring
 
