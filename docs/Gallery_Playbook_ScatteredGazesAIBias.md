@@ -28,6 +28,7 @@
 ### Installation Components
 
 - **Primary Structure**: Champagne wooden crate (50cm × 33cm × 18cm)
+- **Secondary Structure**: 
 - **Control System**: Arduino Uno Rev3 with custom firmware
 - **Scene Automation**: Dual SG90 servo motors for backdrop transitions
 - **User Interface**: " resistive touch LCD display
