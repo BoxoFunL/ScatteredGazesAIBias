@@ -55,6 +55,7 @@
 
 | Component | Supplier | Cost | Lead Time | Purpose | Website | Last Updated |
 |-----------|----------|------|-----------|---------|---------|-------------|
+| Arduino Modulino Distance (4 of) | Arduino.cc (official) | €13,10 / £11.40 | | Proximity detection |  https://store.arduino.cc/collections/modulino/products/modulino-distance | 16/09/2025 |
 | HC-SR04 Ultrasonic | The Pi Hut | £ |  | Proximity detection |
 | DHT22 Temp/Humidity | Pimoroni UK | £ |  | Safety monitoring |
 | GL5537 Photoresistor | RS Components | £ |  | Ambient light |
