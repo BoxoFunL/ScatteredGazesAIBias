@@ -26,15 +26,15 @@ This document details the technical architecture for the Scattered Gazes Arduino
 
 ## Hardware Setup
 
-to be added
+![IMAGE COMING SOON](images/my_image.png)
 
 ## Firmware Structure
 
-to be added
+![IMAGE COMING SOON](images/my_image.png)
 
 ## Automation Flowcharts
 
-to be added
+![IMAGE COMING SOON](images/my_image.png)
 
 ## Communication Protocols
 
