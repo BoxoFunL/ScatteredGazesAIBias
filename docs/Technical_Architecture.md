@@ -38,6 +38,8 @@ This document details the technical architecture for the Scattered Gazes Arduino
 
 ![IMAGE COMING SOON](images/my_image.png)
 
+*Each block represents 6–10 discrete automation triggers (servo, audio, LED, display updates), mapped to the script sections. Further breakdown will be provided post-exhibition.*
+
 ## Communication Protocols
 
 to be added
