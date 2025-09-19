@@ -21,7 +21,13 @@ This document details the technical architecture for the Scattered Gazes Arduino
 
 ## System Architecture Diagram
 
+Layer 1
+
 ![System Architecture - Physical Hardware Level 1](../images/SG_system_architecture_physical_hardware_v1.png)
+
+Layer 2
+
+![IMAGE COMING SOON](images/my_image.png)
 
 
 ## Hardware Setup
