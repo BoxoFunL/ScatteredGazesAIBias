@@ -34,6 +34,8 @@ This document details the technical architecture for the Scattered Gazes Arduino
 
 ## Automation Flowcharts
 
+*The flowchart below outlines the main automation states, decision branches, and system reset logic for the Scattered Gazes installation. Detailed scene contents are abstracted to preserve artistic confidentiality at this stage.*
+
 ![IMAGE COMING SOON](images/my_image.png)
 
 ## Communication Protocols
