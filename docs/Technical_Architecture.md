@@ -36,7 +36,7 @@ This document details the technical architecture for the Scattered Gazes Arduino
 
 *The flowchart below outlines the main automation states, decision branches, and system reset logic for the Scattered Gazes installation. Detailed scene contents are abstracted to preserve artistic confidentiality at this stage.*
 
-![IMAGE COMING SOON](images/my_image.png)
+![Scattered Gazes High-Level Automation Flowchart](/images/SG_automation_flowchart_high_level_v1.png)
 
 *Each block represents 6–10 discrete automation triggers (servo, audio, LED, display updates), mapped to the script sections. Further breakdown will be provided post-exhibition.*
 
