@@ -1,6 +1,6 @@
 # Quick Start Guide
 
-_Welcome to the Scattered Gazes exhibition reading list!_  
+_Welcome to the Scattered Gazes exhibition reading list._  
 This guide is designed for those seeking **maximum insight with minimum time investment**.
 
 ---
