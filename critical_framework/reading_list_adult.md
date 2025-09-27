@@ -39,10 +39,14 @@ resistance practices.
 
 ## E. Craft, Material Culture, Embodied Knowledge
 
-| Tier | Author(s)   | Title                                      | Publisher           | Year | ISBN / DOI       | Level | Community Voice | Accessibility      | Format          | Summary |
-|------|-------------|---------------------------------------------|---------------------|------|------------------|-------|-----------------|--------------------|-----------------|---------|
+| Author(s)   | Title                                      | Publisher           | Year | ISBN / DOI       | Level | Community Voice | Accessibility      | Format          | Summary |
+|-------------|---------------------------------------------|---------------------|------|------------------|-------|-----------------|--------------------|-----------------|---------|
 
 ## F. Islamic Philosophy, Arts, and Epistemology
+| Author(s) | Title | Publisher | Year | ISBN / DOI | Level | Community Voice | Accessibility | Format | Summary |
+|-----------|-------|-----------|------|------------|-------|-----------------|--------------|--------|---------|
 
 ## G. Resistance, Decolonial and Activist Practice
+| Author(s) | Title | Publisher | Year | ISBN / DOI | Level | Community Voice | Accessibility | Format | Summary |
+|-----------|-------|-----------|------|------------|-------|-----------------|--------------|--------|---------|
 
