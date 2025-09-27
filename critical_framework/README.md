@@ -28,15 +28,15 @@ Our framework brings together feminist, postcolonial, and technical perspectives
 
 - Shared authorship, transparent process, and accountable innovation.
 - Ethical boundaries: AI is used only for critique/education, never for reproducing or appropriating authentic cultural content.
-- Accessibility and inclusion; documentation and technologies are designed for diverse publics (not just technical audiences).
+- Accessibility and inclusion: documentation and technologies are designed for diverse audiences (not just technical audiences).
 
 ## References
 
+- Mernissi, F. 'Beyond the Veil: Male-Female Dynamics in Modern Muslim Society.'     
+[https://saqibooks.com/books/saqi/beyond-the-veil/](url)
+
 - Barad, K. 'Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning.'
 [https://www.dukeupress.edu/meeting-the-universe-halfway](url)
-
-- Mernissi, F. 'Beyond the Veil: Male-Female Dynamics in Modern Muslim Society.'
-[https://saqibooks.com/books/saqi/beyond-the-veil/](url)
 
 - Gallery playbook and technical architecture guides (cross-referenced for practice/theory links).
 
