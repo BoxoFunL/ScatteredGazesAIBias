@@ -11,3 +11,8 @@ Each section builds skills progressively:
 - **Ages 8-12:** Identity, belonging, basic digital literacy
 - **Ages 13-15:** Media criticism, historical context, bias recognition  
 - **Ages 16-18:** Systemic analysis, activism, ethical technology development
+
+| Author(s) | Title | Publisher | Year | ISBN / DOI | Age Group | Community Voice | Accessibility | Format | Summary |
+|-----------|-------|-----------|------|------------|-------|-----------------|--------------|--------|---------|
+| Aya Ghanameh | These Olive Trees | | | | | | | |
+
