@@ -16,4 +16,5 @@ Each section builds skills progressively:
 | Author(s) | Title | Publisher | Year | ISBN / DOI | Age Group | Community Voice | Accessibility | Format | Summary |
 |-----------|-------|-----------|------|------------|-------|-----------------|--------------|--------|---------|
 | Aya Ghanameh | These Olive Trees | Viking Books for Young Readers | 2023 | 9780593525180 | 3-5 years | | | |
+| | | | | | | | | |
 
