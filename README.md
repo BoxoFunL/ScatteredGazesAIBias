@@ -52,7 +52,7 @@ For professional technical operation, maintenance, and troubleshooting—includi
 ------------------------------------------------------------------------
 
 ## UI Test (v1)
-![SG-ui-test-screenshot-1](../images/SG-ui-test-screenshot-1.png)
+![SG-ui-test-screenshot-1](/images/SG-ui-test-screenshot-1.png)
 
 
 ------------------------------------------------------------------------
